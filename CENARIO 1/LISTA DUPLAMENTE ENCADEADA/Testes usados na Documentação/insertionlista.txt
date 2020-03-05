@@ -1,0 +1,50 @@
+MAX: 1000
+Testes: 214435
+ Movimentações: 643302 
+InsertionLista: 0 segundos 
+
+MAX: 51000
+Testes: 587159657
+ Movimentações: 1761478968 
+InsertionLista: 11 segundos 
+
+MAX: 101000
+Testes: 2897160953
+ Movimentações: 8691482856 
+InsertionLista: 45 segundos 
+
+MAX: 151000
+Testes: 8026376060
+ Movimentações: 24079128177 
+InsertionLista: 105 segundos 
+
+MAX: 201000
+Testes: 17125521328
+ Movimentações: 51376563981 
+InsertionLista: 186 segundos 
+
+MAX: 251000
+Testes: 31343564081
+ Movimentações: 94030692240 
+InsertionLista: 270 segundos 
+
+MAX: 301000
+Testes: 51715047547
+ Movimentações: 155145142638
+ InsertionLista: 381 segundos 
+
+MAX: 351000
+Testes: 79404966624
+ Movimentações: 238214899869 
+InsertionLista: 506 segundos 
+
+MAX: 401000
+Testes: 115564883017
+ Movimentações: 346694649048 
+InsertionLista: 648 segundos 
+
+MAX: 451000
+Testes: 161320733822
+Movimentações: 483962201463 
+InsertionLista: 689 segundos 
+

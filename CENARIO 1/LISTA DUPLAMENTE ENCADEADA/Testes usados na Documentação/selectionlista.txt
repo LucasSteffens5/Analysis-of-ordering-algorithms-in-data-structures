@@ -1,0 +1,50 @@
+MAX: 1000
+Testes: 498502
+ Movimentações: 3000 
+SelectionSort: 0 segundos 
+
+MAX: 51000
+Testes: 1300973002
+ Movimentações: 156000 
+SelectionSort: 8 segundos 
+
+MAX: 101000
+Testes: 6401422502
+ Movimentações: 459000 
+SelectionSort: 35 segundos 
+
+MAX: 151000
+Testes: 17801847002
+ Movimentações: 912000 
+SelectionSort: 81 segundos 
+
+MAX: 201000
+Testes: 38002246502
+ Movimentações: 1515000 
+SelectionSort: 150 segundos 
+
+MAX: 251000
+Testes: 69502621002
+ Movimentações: 2268000 
+SelectionSort: 233 segundos 
+
+MAX: 301000
+Testes: 114802970502
+ Movimentações: 3171000 
+SelectionSort: 331 segundos 
+
+MAX: 351000
+Testes: 176403295002
+ Movimentações: 4224000 
+SelectionSort: 440 segundos 
+
+MAX: 401000
+Testes: 256803594502
+ Movimentações: 5427000 
+SelectionSort: 583 segundos 
+
+MAX: 451000
+Testes: 358503869002
+Movimentações: 6780000 
+SelectionSort: 703 segundos 
+

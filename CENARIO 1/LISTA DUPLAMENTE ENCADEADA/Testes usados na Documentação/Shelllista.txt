@@ -1,0 +1,31 @@
+
+
+
+
+MAX: 10000
+Testes: 38079
+ Movimentações: 38078 
+ShellLista: 6 segundos 
+
+MAX: 20000
+Testes: 110200
+Movimentações: 110199
+ShellLista: 28 segundos 
+
+ 
+MAX: 30000
+Testes: 225669
+Movimentações: 225668
+ShellLista: 70 segundos 
+
+ 
+MAX: 40000
+Testes: 379752
+Movimentações: 379751
+ShellLista: 135 segundos 
+
+ 
+MAX: 50000
+Testes: 572869
+Movimentações: 572868 
+ShellLista: 229 segundos 

@@ -1,0 +1,35 @@
+
+MAX: 1000
+Testes: 230763
+Movimentações: 692286 
+BubbleSort: 0 segundos 
+
+MAX: 51000
+Testes: 586288338
+Movimentações: 1758865011 
+BubbleSort: 26 segundos 
+
+MAX: 101000
+Testes: 2885783115
+Movimentações: 8657349342 
+BubbleSort: 101 segundos 
+
+MAX: 151000
+Testes: 8015722105
+Movimentações: 24047166312 
+BubbleSort: 239 segundos 
+
+MAX: 201000
+Testes: 17105730541
+Movimentações: 51317191620 
+BubbleSort: 417 segundos 
+
+MAX: 251000
+Testes: 31264063881
+Movimentações: 93792191640 
+BubbleSort: 618 segundos 
+
+MAX: 301000
+Testes: 51663671538
+Movimentações: 154991014611 
+BubbleSort: 911 segundos 
